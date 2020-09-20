@@ -16,6 +16,11 @@ with step by step Implementation.<br/><br/>
 5 - TensorFlow_Tutorial<br/><br/>
 
 ## FILES (Project-(Sign Language Detection) in TensorFlow) -> (./Deep Learning-Tensorflow Implemetation(SignLanguage Detection)/)<br/>
+-datasets<br/>
+-testimages<br/>
+--SignDetect_NN.ipynb<br/>
+--signdetect_nn.py<br/>
+--tf-utils.py<br/>
 
 ## TOPICS <br/>
 #Logistic Regression<br/>
